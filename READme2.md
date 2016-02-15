@@ -20,4 +20,4 @@ Please fork this repo and issue...
 
 ## COPYRIGHT
 
-2016 Git Training
+2016 Git Training. All right reserved.
